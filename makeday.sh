@@ -1,11 +1,11 @@
 #!/bin/bash
 # create dayXX folder and files
 
-# print helpFunction if arugment is empty
+# print helpFunction if arg is empty
 helpFunction()
 {
    echo ""
-   echo "please provide a directory name";
+   echo "please provide a directory name"
    echo ""
    echo "usage: bash ./makeDay.sh dayXX"
    exit 1
