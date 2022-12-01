@@ -9,7 +9,7 @@ all my homies like the advent of code
 - create venv
 
 ```
-python3 -m venv venv-aoc
+python3 -m venv venv
 ```
 
 - activate venv
@@ -17,13 +17,13 @@ python3 -m venv venv-aoc
 windows
 
 ```
-venv-aoc\Scripts\activate.bat
+venv\Scripts\activate.bat
 ```
 
 unix/macos
 
 ```
-source venv-aoc/bin/activate
+source venv/bin/activate
 ```
 
 - install requirements
