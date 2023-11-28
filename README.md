@@ -42,6 +42,4 @@ bash makeday.sh day01
 
 ## testing against the small sample
 
-```
-pytest day00/part1.py
-```
+I use VS Code's debugger
