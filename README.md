@@ -26,12 +26,6 @@ unix/macos
 source venv/bin/activate
 ```
 
-- install requirements
-
-```
-pip install -r requirements.txt
-```
-
 To deactivate the virtual environment, type `deactivate` in the respective terminal window.
 
 ## creating a new day's folder
