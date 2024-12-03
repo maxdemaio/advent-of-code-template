@@ -36,4 +36,4 @@ bash makeday.sh day01
 
 ## testing against the small sample
 
-I use VS Code's debugger
+I use VS Code's debugger and swap out the call for `main()` for `test()`
